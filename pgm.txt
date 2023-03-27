@@ -1,0 +1,46 @@
+OPEN STACK SWIFT 
+INTRODUCTION 
+open stack swift is also known as open stack storage where it s a open source software used to design and store large amount of data cost effectively on the long term basics based on the 
+server clusters and sources 
+
+open stack swift is a storage used techonlogy which is devloped by Rackspace hosting Inc 
+
+it is used to store the data and the networking components of the user.
+ it is usally works on the storage devices drivers,  softwares and unstruted data such as documents ,images, filoes and data.
+
+
+HOW IT WORKS
+
+
+The open stack swift stores the data in the binary storage form. 	And gives the accers and saves it by underlying the project of storage nodes.
+
+
+In case if there is any data fail or ha5rd drive gets corrupted. The open source software gives the information to the located storages and retrives the data .
+It gives the user each and every information and the process step by step and store the data in the open stack.
+
+
+
+FEATURES OF OPEN STACK 
+. It is used to store the data of the user and saves it long term and never gets deleted until the user deletes it  from the software.
+. It is used as realiblity7,scaliblity,usability.etc
+.
+In openstack the employees  who work in the technology vendors sells thier works inh the platform based on the api networks.
+
+
+. The openStack can store N number of data in thier cloud storage which is cost efftively and efficient manner.
+.Compability and management
+.Security.
+. Management control
+
+
+ORGANIZATION
+OPENSTACK
+
+LISCENSE
+APACHE LISCENCE 2.0
+
+
+
+CURRENT USAGE 
+The open stack sorce43 which stores the large amont of data for any applications. or drivers. for eaxmple Addingf or calucatuing the total number of people in india these huge data,documents,images etc. can be easily stored in the openstack.
+Even many college details ,information  about the people all the data can be stored in the open stack.
